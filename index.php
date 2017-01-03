@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'cambios aquí';
+        echo 'Cambios para ver la diferencia.';
         ?>
     </body>
 </html>
